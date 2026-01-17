@@ -1,0 +1,82 @@
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+
+  body {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 1.2rem;
+      text-align: justify;
+      margin: 15px;
+      padding: none;
+      background-color: antiquewhite;
+  }
+
+  #head_container {
+      display: flex;
+      align-items: center;
+  }
+
+  img {
+      max-width: 100%;
+      height: 30vh;
+      border-radius: 40px;
+  }
+
+  #details {
+      justify-items: center;
+  }
+
+  h1, address {
+      color: rgb(69, 69, 157);
+      margin: 7px 200px;
+  }
+
+  #phone, #email {
+      color: rgb(176, 24, 24);
+  }
+
+  hr {
+      margin-top: 5px;
+  }
+
+  h3 {
+      color: rgb(87, 87, 189);
+      margin: 5px;
+      padding-top: 5px;
+  }
+
+  h4, p {
+      padding: 10px;
+  }
+
+  ul {
+      margin-left: 35px;
+  }
+
+  #years {
+      padding-left: 400px;
+  }
+
+  #years2 {
+      padding-left: 330px;
+  }
+
+  #years3 {
+      padding-left: 250px;
+  }
+
+  #years4 {
+      padding-left: 150px;
+  }
+
+  a {
+      color: blue;
+      text-decoration: none;
+      padding-left: 10px;
+  }
+
+  a:hover {
+      color: rgb(45, 45, 195);
+  }
